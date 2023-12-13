@@ -64,7 +64,7 @@ const IndexPage = () => {
           textAlign: "center",
         }}
       >
-        Copyright © 2022 Shin Jooyoung
+        Copyright © 2023 Shin Jooyoung
       </Footer>
     </Wrapper>
   );
